@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;;;;;;;;;;;;;;kBAgBkB;AAGlB,IAAK;EACH,KAAK,EAFM,OAAO",
+"sources": ["../scss/mane.scss"],
+"names": [],
+"file": "mane.css"
+}

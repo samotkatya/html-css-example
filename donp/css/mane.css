@@ -1,0 +1,21 @@
+/*@import "vars";
+@import "bootsrap-overade";
+@import "../bootstrap/assets/stylesheets/bootstrap/variables";
+@import "../bootstrap/assets/stylesheets/bootstrap/normalize";
+@import "../bootstrap/assets/stylesheets/bootstrap/mixins";
+@import "../bootstrap/assets/stylesheets/bootstrap/scaffolding";
+@import "../bootstrap/assets/stylesheets/bootstrap/grid";
+
+
+@import "../themify/themify-icons";
+
+
+@import "colours-matrix";
+@import "extends";
+@import "mixin";
+@import "global";
+@import "style";*/
+body {
+  color: #7299bf; }
+
+/*# sourceMappingURL=mane.css.map */
